@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -31,6 +32,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -65,5 +67,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
