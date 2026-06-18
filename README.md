@@ -23,10 +23,12 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
