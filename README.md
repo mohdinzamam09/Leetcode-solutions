@@ -19,6 +19,7 @@
 | ------- |
 | [0136-single-number](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
