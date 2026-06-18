@@ -30,6 +30,7 @@
 | [0231-power-of-two](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -55,4 +57,5 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
