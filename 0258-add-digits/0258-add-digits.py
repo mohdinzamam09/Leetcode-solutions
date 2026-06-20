@@ -4,7 +4,12 @@ class Solution(object):
         :type num: int
         :rtype: int
         """
-        if num == 0:
-            return 0
-        else:
-            return 1 + (num - 1) % 9
+        if num < 10:
+            return num
+
+        s = 0
+        while num > 0:
+            s += num % 10
+            num //= 10
+
+        return self.addDigits(s)
