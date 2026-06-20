@@ -37,6 +37,7 @@
 | [0001-two-sum](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -64,6 +65,7 @@
 | [0088-merge-sorted-array](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/mohdinzamam09/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Two Pointers
